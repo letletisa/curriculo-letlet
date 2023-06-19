@@ -1,20 +1,19 @@
-name: John Doe
+name: Letícia Nascimento
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: leticiamarinabn@gmail.com
+  github: letletisa
+  linkedin: --
+  phone: (84) 98639-7484
+  gitlab: --
+  instagram: @aluadesaturno_
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Portuguese
 
 education:
   - degree: MSc in Informatics
