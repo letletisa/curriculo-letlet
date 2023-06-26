@@ -8,19 +8,14 @@ contact:
   github: letletisa
   linkedin: --
   phone: (84) 98639-7484
-<<<<<<< HEAD
   gitlab: --2
   
-=======
-  gitlab: --
->>>>>>> 7a7269a7a22eb01ad6e9c574679b2a86c1fdcc4c
 
 languages:
-  - idiom: Inglês
-  - idiom: Português
+  - idiom: English
+  - idiom: Portuguese
 
 education:
-<<<<<<< HEAD
   - degree: Bachelor of Arts
   in Brazilian literature
     time: 2027-2031
@@ -40,35 +35,15 @@ skills:
       - HTML
       - Python
   - category: Drawing
-=======
-  - degree: Ensino fundamental
-    time: 2014-2022
-    university: Centro de Aprendizagem Moderna
-
-  - degree: Ensino técnico integrado em informática
-    time: 2023-
-    university: Instituto Federal do Rio Grande do Norte
-
-skills:
-  - category: Desenho
-    skill: 
-      - Go
-      - Rust
-  - category: Escrita
->>>>>>> 7a7269a7a22eb01ad6e9c574679b2a86c1fdcc4c
     skill:
       - Digital
       - Traditional
 
 # Profile
 profile: |
-<<<<<<< HEAD
   A serious and organized person. I follow schedule **strictly** and I'm flexible with
   deadlines. I'm a very cooperative person, comprehensive when working in group.
   Multi-skilled and open for learning new things.
-=======
-  Sou uma pessoa responsável e cooperativa, sempre tento manter a harmonia no ambiente de trabalho. Posso ser prestativa, se necessáro, e cumpro adequadamente aos prazos e horários
->>>>>>> 7a7269a7a22eb01ad6e9c574679b2a86c1fdcc4c
 
 # Experience
 experience:
