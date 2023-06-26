@@ -9,27 +9,26 @@ contact:
   linkedin: --
   phone: (84) 98639-7484
   gitlab: --
-  instagram: @aluadesaturno_
 
 languages:
-  - idiom: English
-  - idiom: Portuguese
+  - idiom: Inglês
+  - idiom: Português
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Ensino fundamental
+    time: 2014-2022
+    university: Centro de Aprendizagem Moderna
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Ensino técnico integrado em informática
+    time: 2023-
+    university: Instituto Federal do Rio Grande do Norte
 
 skills:
-  - category: Backend
+  - category: Desenho
     skill: 
       - Go
       - Rust
-  - category: Frontend
+  - category: Escrita
     skill:
       - React
       - Typescript
@@ -40,11 +39,7 @@ skills:
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Sou uma pessoa responsável e cooperativa, sempre tento manter a harmonia no ambiente de trabalho. Posso ser prestativa, se necessáro, e cumpro adequadamente aos prazos e horários
 
 # Experience
 experience:
