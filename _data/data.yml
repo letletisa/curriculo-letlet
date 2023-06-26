@@ -9,56 +9,53 @@ contact:
   linkedin: --
   phone: (84) 98639-7484
   gitlab: --
-  instagram: @aluadesaturno_
+  
 
 languages:
   - idiom: English
   - idiom: Portuguese
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Bachelor of Arts
+  in Brazilian literature
+    time: 2027-2031
+    university: UFRN
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: High School
+    time: 2023-2026
+    university: IFRN
 
 skills:
-  - category: Backend
+  - category: Writing
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Novel
+      - Poetry
+  - category: 
+    skill: Programming
+      - HTML
+      - Python
+  - category: Drawing
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
+      - Digital
+      - Traditional
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  A serious and organized person. I follow schedule **strictly** and I'm flexible with
+  deadlines. I'm a very cooperative person, comprehensive when working in group.
+  Multi-skilled and open for learning new things.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Literature Teacher
+    time: 2036-Present
+    company: IFRN
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
   
   - role: Researcher
     time: 2016-2020
